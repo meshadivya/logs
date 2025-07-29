@@ -2254,3 +2254,3913 @@ Log at 2025-07-29T12:20:32.247Z
   "imageFetchCount": 12
 }
 
+Log at 2025-07-29T14:55:49.260Z
+{
+  "timestamp": "2025-07-29T14:55:49.175Z",
+  "text": "g",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T14:55:49.315Z
+{
+  "timestamp": "2025-07-29T14:55:49.310Z",
+  "text": "gd",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T14:55:49.498Z
+{
+  "timestamp": "2025-07-29T14:55:49.488Z",
+  "text": "gdf",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T14:55:49.531Z
+{
+  "timestamp": "2025-07-29T14:55:49.520Z",
+  "text": "gdfg",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T14:55:49.695Z
+{
+  "timestamp": "2025-07-29T14:55:49.683Z",
+  "text": "gdfgd",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T14:55:49.745Z
+{
+  "timestamp": "2025-07-29T14:55:49.739Z",
+  "text": "gdfgdc",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T14:55:49.820Z
+{
+  "timestamp": "2025-07-29T14:55:49.816Z",
+  "text": "gdfgdcg",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T14:55:49.902Z
+{
+  "timestamp": "2025-07-29T14:55:49.897Z",
+  "text": "gdfgdcgb",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T14:55:50.040Z
+{
+  "timestamp": "2025-07-29T14:55:50.036Z",
+  "text": "gdfgdcgbc",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T14:55:50.247Z
+{
+  "timestamp": "2025-07-29T14:55:50.244Z",
+  "text": "gdfgdcgbcb",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T14:55:50.829Z
+{
+  "timestamp": "2025-07-29T14:55:50.818Z",
+  "text": "gdfgdcgbc",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T14:55:51.329Z
+{
+  "timestamp": "2025-07-29T14:55:51.325Z",
+  "text": "gdfgdcgb",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T14:55:51.364Z
+{
+  "timestamp": "2025-07-29T14:55:51.356Z",
+  "text": "gdfgdcg",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T14:55:51.447Z
+{
+  "timestamp": "2025-07-29T14:55:51.423Z",
+  "text": "gdfgd",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T14:55:51.515Z
+{
+  "timestamp": "2025-07-29T14:55:51.390Z",
+  "text": "gdfgdc",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T14:55:51.566Z
+{
+  "timestamp": "2025-07-29T14:55:51.456Z",
+  "text": "gdfg",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T14:55:51.602Z
+{
+  "timestamp": "2025-07-29T14:55:51.489Z",
+  "text": "gdf",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T14:55:51.660Z
+{
+  "timestamp": "2025-07-29T14:55:51.521Z",
+  "text": "gd",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T14:55:51.765Z
+{
+  "timestamp": "2025-07-29T14:55:51.553Z",
+  "text": "g",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T14:55:51.837Z
+{
+  "timestamp": "2025-07-29T14:55:51.589Z",
+  "text": "",
+  "wordCount": 0,
+  "erasedWords": 1,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:00:30.822Z
+{
+  "timestamp": "2025-07-29T15:00:30.788Z",
+  "text": "d",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:00:31.028Z
+{
+  "timestamp": "2025-07-29T15:00:31.005Z",
+  "text": "da",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:00:31.260Z
+{
+  "timestamp": "2025-07-29T15:00:31.257Z",
+  "text": "dat",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:00:31.507Z
+{
+  "timestamp": "2025-07-29T15:00:31.503Z",
+  "text": "data",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:00:31.951Z
+{
+  "timestamp": "2025-07-29T15:00:31.942Z",
+  "text": "data ",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:00:32.419Z
+{
+  "timestamp": "2025-07-29T15:00:32.410Z",
+  "text": "data -",
+  "wordCount": 2,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:00:32.761Z
+{
+  "timestamp": "2025-07-29T15:00:32.751Z",
+  "text": "data - ",
+  "wordCount": 2,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:00:33.519Z
+{
+  "timestamp": "2025-07-29T15:00:33.505Z",
+  "text": "data - i",
+  "wordCount": 3,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:00:33.768Z
+{
+  "timestamp": "2025-07-29T15:00:33.766Z",
+  "text": "data - in",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:00:34.227Z
+{
+  "timestamp": "2025-07-29T15:00:34.223Z",
+  "text": "data - inf",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:00:34.539Z
+{
+  "timestamp": "2025-07-29T15:00:34.529Z",
+  "text": "data - info",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:00:34.825Z
+{
+  "timestamp": "2025-07-29T15:00:34.818Z",
+  "text": "data - infor",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:00:35.159Z
+{
+  "timestamp": "2025-07-29T15:00:35.156Z",
+  "text": "data - inform",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:00:35.540Z
+{
+  "timestamp": "2025-07-29T15:00:35.529Z",
+  "text": "data - informa",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:00:35.840Z
+{
+  "timestamp": "2025-07-29T15:00:35.827Z",
+  "text": "data - informat",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:00:36.106Z
+{
+  "timestamp": "2025-07-29T15:00:36.101Z",
+  "text": "data - informati",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:00:36.346Z
+{
+  "timestamp": "2025-07-29T15:00:36.343Z",
+  "text": "data - informatio",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:00:36.637Z
+{
+  "timestamp": "2025-07-29T15:00:36.631Z",
+  "text": "data - information",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:00:36.893Z
+{
+  "timestamp": "2025-07-29T15:00:36.882Z",
+  "text": "data - information ",
+  "wordCount": 3,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:00:37.877Z
+{
+  "timestamp": "2025-07-29T15:00:37.863Z",
+  "text": "data - information \n",
+  "wordCount": 3,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:01:46.863Z
+{
+  "timestamp": "2025-07-29T15:01:46.850Z",
+  "text": "data - information \n\n",
+  "wordCount": 3,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:02:42.019Z
+{
+  "timestamp": "2025-07-29T15:02:41.475Z",
+  "text": "data - informatio\n\n",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:02:42.087Z
+{
+  "timestamp": "2025-07-29T15:02:41.575Z",
+  "text": "data - informa\n\n",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:02:42.108Z
+{
+  "timestamp": "2025-07-29T15:02:41.545Z",
+  "text": "data - informat\n\n",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:02:42.119Z
+{
+  "timestamp": "2025-07-29T15:02:41.638Z",
+  "text": "data - infor\n\n",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:02:42.150Z
+{
+  "timestamp": "2025-07-29T15:02:41.833Z",
+  "text": "data -\n\n",
+  "wordCount": 2,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:02:42.196Z
+{
+  "timestamp": "2025-07-29T15:02:41.735Z",
+  "text": "data - in\n\n",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:02:42.221Z
+{
+  "timestamp": "2025-07-29T15:02:41.867Z",
+  "text": "data \n\n",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:02:42.286Z
+{
+  "timestamp": "2025-07-29T15:02:41.703Z",
+  "text": "data - inf\n\n",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:02:42.316Z
+{
+  "timestamp": "2025-07-29T15:02:41.511Z",
+  "text": "data - informati\n\n",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:02:42.347Z
+{
+  "timestamp": "2025-07-29T15:02:41.605Z",
+  "text": "data - inform\n\n",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:02:42.362Z
+{
+  "timestamp": "2025-07-29T15:02:41.768Z",
+  "text": "data - i\n\n",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:02:42.381Z
+{
+  "timestamp": "2025-07-29T15:02:41.900Z",
+  "text": "data\n\n",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:02:42.415Z
+{
+  "timestamp": "2025-07-29T15:02:41.932Z",
+  "text": "dat\n\n",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:02:42.449Z
+{
+  "timestamp": "2025-07-29T15:02:41.804Z",
+  "text": "data - \n\n",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:02:42.489Z
+{
+  "timestamp": "2025-07-29T15:02:42.030Z",
+  "text": "\n\n",
+  "wordCount": 0,
+  "erasedWords": 1,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:02:42.514Z
+{
+  "timestamp": "2025-07-29T15:02:41.670Z",
+  "text": "data - info\n\n",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:02:42.528Z
+{
+  "timestamp": "2025-07-29T15:02:40.966Z",
+  "text": "data - information\n\n",
+  "wordCount": 3,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:02:42.564Z
+{
+  "timestamp": "2025-07-29T15:02:41.966Z",
+  "text": "da\n\n",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:02:42.589Z
+{
+  "timestamp": "2025-07-29T15:02:41.999Z",
+  "text": "d\n\n",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:02.903Z
+{
+  "timestamp": "2025-07-29T15:06:02.859Z",
+  "text": "-\n\n",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:03.075Z
+{
+  "timestamp": "2025-07-29T15:06:03.070Z",
+  "text": "--\n\n",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:04.072Z
+{
+  "timestamp": "2025-07-29T15:06:04.063Z",
+  "text": "--i\n\n",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:04.381Z
+{
+  "timestamp": "2025-07-29T15:06:04.371Z",
+  "text": "--in\n\n",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:04.990Z
+{
+  "timestamp": "2025-07-29T15:06:04.960Z",
+  "text": "--int\n\n",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:05.186Z
+{
+  "timestamp": "2025-07-29T15:06:05.181Z",
+  "text": "--intr\n\n",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:05.868Z
+{
+  "timestamp": "2025-07-29T15:06:05.857Z",
+  "text": "--intro\n\n",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:06.467Z
+{
+  "timestamp": "2025-07-29T15:06:06.455Z",
+  "text": "--introu\n\n",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:06.767Z
+{
+  "timestamp": "2025-07-29T15:06:06.757Z",
+  "text": "--introuc\n\n",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:06.971Z
+{
+  "timestamp": "2025-07-29T15:06:06.963Z",
+  "text": "--introuct\n\n",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:07.470Z
+{
+  "timestamp": "2025-07-29T15:06:07.461Z",
+  "text": "--introucti\n\n",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:07.704Z
+{
+  "timestamp": "2025-07-29T15:06:07.696Z",
+  "text": "--introuctio\n\n",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:07.961Z
+{
+  "timestamp": "2025-07-29T15:06:07.952Z",
+  "text": "--introuction\n\n",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:08.956Z
+{
+  "timestamp": "2025-07-29T15:06:08.950Z",
+  "text": "--introuction\n\n\n",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:10.562Z
+{
+  "timestamp": "2025-07-29T15:06:10.552Z",
+  "text": "--introuction\n-\n\n",
+  "wordCount": 2,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:10.842Z
+{
+  "timestamp": "2025-07-29T15:06:10.831Z",
+  "text": "--introuction\n--\n\n",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:13.106Z
+{
+  "timestamp": "2025-07-29T15:06:13.086Z",
+  "text": "--introuction\n--d\n\n",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:13.307Z
+{
+  "timestamp": "2025-07-29T15:06:13.297Z",
+  "text": "--introuction\n--da\n\n",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:13.514Z
+{
+  "timestamp": "2025-07-29T15:06:13.502Z",
+  "text": "--introuction\n--dat\n\n",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:13.751Z
+{
+  "timestamp": "2025-07-29T15:06:13.744Z",
+  "text": "--introuction\n--data\n\n",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:14.964Z
+{
+  "timestamp": "2025-07-29T15:06:14.961Z",
+  "text": "--introuction\n--data\n\n\n",
+  "wordCount": 2,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:16.142Z
+{
+  "timestamp": "2025-07-29T15:06:16.127Z",
+  "text": "--introuction\n--data\n\n",
+  "wordCount": 2,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:17.971Z
+{
+  "timestamp": "2025-07-29T15:06:17.968Z",
+  "text": "--introuction\n--data?\n\n",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:18.620Z
+{
+  "timestamp": "2025-07-29T15:06:18.608Z",
+  "text": "--introuction\n--data?\n\n\n",
+  "wordCount": 2,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:19.650Z
+{
+  "timestamp": "2025-07-29T15:06:19.641Z",
+  "text": "--introuction\n--data?\n-\n\n",
+  "wordCount": 3,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:19.866Z
+{
+  "timestamp": "2025-07-29T15:06:19.860Z",
+  "text": "--introuction\n--data?\n--\n\n",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:21.026Z
+{
+  "timestamp": "2025-07-29T15:06:21.012Z",
+  "text": "--introuction\n--data?\n--w\n\n",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:21.310Z
+{
+  "timestamp": "2025-07-29T15:06:21.302Z",
+  "text": "--introuction\n--data?\n--wh\n\n",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:21.551Z
+{
+  "timestamp": "2025-07-29T15:06:21.548Z",
+  "text": "--introuction\n--data?\n--why\n\n",
+  "wordCount": 3,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:21.870Z
+{
+  "timestamp": "2025-07-29T15:06:21.866Z",
+  "text": "--introuction\n--data?\n--why \n\n",
+  "wordCount": 3,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:22.532Z
+{
+  "timestamp": "2025-07-29T15:06:22.522Z",
+  "text": "--introuction\n--data?\n--why d\n\n",
+  "wordCount": 4,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:23.186Z
+{
+  "timestamp": "2025-07-29T15:06:23.181Z",
+  "text": "--introuction\n--data?\n--why do\n\n",
+  "wordCount": 4,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:23.461Z
+{
+  "timestamp": "2025-07-29T15:06:23.456Z",
+  "text": "--introuction\n--data?\n--why do \n\n",
+  "wordCount": 4,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:24.001Z
+{
+  "timestamp": "2025-07-29T15:06:23.995Z",
+  "text": "--introuction\n--data?\n--why do w\n\n",
+  "wordCount": 5,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:24.397Z
+{
+  "timestamp": "2025-07-29T15:06:24.388Z",
+  "text": "--introuction\n--data?\n--why do we\n\n",
+  "wordCount": 5,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:24.713Z
+{
+  "timestamp": "2025-07-29T15:06:24.704Z",
+  "text": "--introuction\n--data?\n--why do we \n\n",
+  "wordCount": 5,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:25.794Z
+{
+  "timestamp": "2025-07-29T15:06:25.786Z",
+  "text": "--introuction\n--data?\n--why do we n\n\n",
+  "wordCount": 6,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:26.156Z
+{
+  "timestamp": "2025-07-29T15:06:26.144Z",
+  "text": "--introuction\n--data?\n--why do we ne\n\n",
+  "wordCount": 6,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:26.390Z
+{
+  "timestamp": "2025-07-29T15:06:26.380Z",
+  "text": "--introuction\n--data?\n--why do we nee\n\n",
+  "wordCount": 6,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:26.848Z
+{
+  "timestamp": "2025-07-29T15:06:26.838Z",
+  "text": "--introuction\n--data?\n--why do we need\n\n",
+  "wordCount": 6,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:28.253Z
+{
+  "timestamp": "2025-07-29T15:06:28.243Z",
+  "text": "--introuction\n--data?\n--why do we need \n\n",
+  "wordCount": 6,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:29.061Z
+{
+  "timestamp": "2025-07-29T15:06:29.019Z",
+  "text": "--introuction\n--data?\n--why do we need d\n\n",
+  "wordCount": 7,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:29.223Z
+{
+  "timestamp": "2025-07-29T15:06:29.211Z",
+  "text": "--introuction\n--data?\n--why do we need da\n\n",
+  "wordCount": 7,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:29.473Z
+{
+  "timestamp": "2025-07-29T15:06:29.468Z",
+  "text": "--introuction\n--data?\n--why do we need dat\n\n",
+  "wordCount": 7,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:29.707Z
+{
+  "timestamp": "2025-07-29T15:06:29.703Z",
+  "text": "--introuction\n--data?\n--why do we need data\n\n",
+  "wordCount": 7,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:31.513Z
+{
+  "timestamp": "2025-07-29T15:06:31.503Z",
+  "text": "--introuction\n--data?\n--why do we need data?\n\n",
+  "wordCount": 7,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:33.047Z
+{
+  "timestamp": "2025-07-29T15:06:33.033Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n\n",
+  "wordCount": 7,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:35.693Z
+{
+  "timestamp": "2025-07-29T15:06:35.686Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n\n\n",
+  "wordCount": 7,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:37.489Z
+{
+  "timestamp": "2025-07-29T15:06:37.480Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n-\n\n",
+  "wordCount": 8,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:37.688Z
+{
+  "timestamp": "2025-07-29T15:06:37.681Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--\n\n",
+  "wordCount": 8,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:46.010Z
+{
+  "timestamp": "2025-07-29T15:06:45.979Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--h\n\n",
+  "wordCount": 8,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:47.454Z
+{
+  "timestamp": "2025-07-29T15:06:47.445Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--\n\n",
+  "wordCount": 8,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:51.882Z
+{
+  "timestamp": "2025-07-29T15:06:51.866Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--p\n\n",
+  "wordCount": 8,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:52.594Z
+{
+  "timestamp": "2025-07-29T15:06:52.586Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--\n\n",
+  "wordCount": 8,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:53.388Z
+{
+  "timestamp": "2025-07-29T15:06:53.380Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--s\n\n",
+  "wordCount": 8,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:53.772Z
+{
+  "timestamp": "2025-07-29T15:06:53.762Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--st\n\n",
+  "wordCount": 8,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:54.425Z
+{
+  "timestamp": "2025-07-29T15:06:54.413Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--sto\n\n",
+  "wordCount": 8,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:54.824Z
+{
+  "timestamp": "2025-07-29T15:06:54.816Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--stor\n\n",
+  "wordCount": 8,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:55.032Z
+{
+  "timestamp": "2025-07-29T15:06:55.027Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--stori\n\n",
+  "wordCount": 8,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:55.296Z
+{
+  "timestamp": "2025-07-29T15:06:55.288Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storin\n\n",
+  "wordCount": 8,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:55.558Z
+{
+  "timestamp": "2025-07-29T15:06:55.553Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing\n\n",
+  "wordCount": 8,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:55.823Z
+{
+  "timestamp": "2025-07-29T15:06:55.816Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing \n\n",
+  "wordCount": 8,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:56.128Z
+{
+  "timestamp": "2025-07-29T15:06:56.120Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing d\n\n",
+  "wordCount": 9,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:56.294Z
+{
+  "timestamp": "2025-07-29T15:06:56.290Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing da\n\n",
+  "wordCount": 9,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:56.641Z
+{
+  "timestamp": "2025-07-29T15:06:56.634Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing daa\n\n",
+  "wordCount": 9,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:58.257Z
+{
+  "timestamp": "2025-07-29T15:06:58.237Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing da\n\n",
+  "wordCount": 9,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:58.934Z
+{
+  "timestamp": "2025-07-29T15:06:58.923Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing dat\n\n",
+  "wordCount": 9,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:59.106Z
+{
+  "timestamp": "2025-07-29T15:06:59.097Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data\n\n",
+  "wordCount": 9,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:06:59.429Z
+{
+  "timestamp": "2025-07-29T15:06:59.419Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data \n\n",
+  "wordCount": 9,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:00.769Z
+{
+  "timestamp": "2025-07-29T15:07:00.756Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data e\n\n",
+  "wordCount": 10,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:01.127Z
+{
+  "timestamp": "2025-07-29T15:07:01.118Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data ev\n\n",
+  "wordCount": 10,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:01.798Z
+{
+  "timestamp": "2025-07-29T15:07:01.795Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evo\n\n",
+  "wordCount": 10,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:02.052Z
+{
+  "timestamp": "2025-07-29T15:07:02.049Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evol\n\n",
+  "wordCount": 10,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:02.310Z
+{
+  "timestamp": "2025-07-29T15:07:02.305Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolu\n\n",
+  "wordCount": 10,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:02.588Z
+{
+  "timestamp": "2025-07-29T15:07:02.585Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evoluy\n\n",
+  "wordCount": 10,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:03.727Z
+{
+  "timestamp": "2025-07-29T15:07:03.703Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolu\n\n",
+  "wordCount": 10,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:04.195Z
+{
+  "timestamp": "2025-07-29T15:07:04.186Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolut\n\n",
+  "wordCount": 10,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:04.414Z
+{
+  "timestamp": "2025-07-29T15:07:04.409Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evoluti\n\n",
+  "wordCount": 10,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:04.643Z
+{
+  "timestamp": "2025-07-29T15:07:04.640Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolutio\n\n",
+  "wordCount": 10,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:04.956Z
+{
+  "timestamp": "2025-07-29T15:07:04.952Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n",
+  "wordCount": 10,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:06.100Z
+{
+  "timestamp": "2025-07-29T15:07:06.097Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n\n",
+  "wordCount": 10,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:07.728Z
+{
+  "timestamp": "2025-07-29T15:07:07.720Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n-\n\n",
+  "wordCount": 11,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:07.923Z
+{
+  "timestamp": "2025-07-29T15:07:07.913Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--\n\n",
+  "wordCount": 11,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:11.484Z
+{
+  "timestamp": "2025-07-29T15:07:11.464Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--w\n\n",
+  "wordCount": 11,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:12.444Z
+{
+  "timestamp": "2025-07-29T15:07:12.436Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--\n\n",
+  "wordCount": 11,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:13.001Z
+{
+  "timestamp": "2025-07-29T15:07:12.997Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--l\n\n",
+  "wordCount": 11,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:13.253Z
+{
+  "timestamp": "2025-07-29T15:07:13.250Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--li\n\n",
+  "wordCount": 11,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:13.573Z
+{
+  "timestamp": "2025-07-29T15:07:13.569Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--lim\n\n",
+  "wordCount": 11,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:13.850Z
+{
+  "timestamp": "2025-07-29T15:07:13.842Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limi\n\n",
+  "wordCount": 11,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:14.476Z
+{
+  "timestamp": "2025-07-29T15:07:14.470Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limit\n\n",
+  "wordCount": 11,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:14.886Z
+{
+  "timestamp": "2025-07-29T15:07:14.884Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limita\n\n",
+  "wordCount": 11,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:15.147Z
+{
+  "timestamp": "2025-07-29T15:07:15.139Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitat\n\n",
+  "wordCount": 11,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:15.636Z
+{
+  "timestamp": "2025-07-29T15:07:15.627Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitati\n\n",
+  "wordCount": 11,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:15.947Z
+{
+  "timestamp": "2025-07-29T15:07:15.938Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitatio\n\n",
+  "wordCount": 11,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:16.305Z
+{
+  "timestamp": "2025-07-29T15:07:16.295Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitation\n\n",
+  "wordCount": 11,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:16.640Z
+{
+  "timestamp": "2025-07-29T15:07:16.618Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations\n\n",
+  "wordCount": 11,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:16.834Z
+{
+  "timestamp": "2025-07-29T15:07:16.825Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations \n\n",
+  "wordCount": 11,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:17.389Z
+{
+  "timestamp": "2025-07-29T15:07:17.382Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations o\n\n",
+  "wordCount": 12,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:18.002Z
+{
+  "timestamp": "2025-07-29T15:07:17.999Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of\n\n",
+  "wordCount": 12,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:18.267Z
+{
+  "timestamp": "2025-07-29T15:07:18.265Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of \n\n",
+  "wordCount": 12,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:19.176Z
+{
+  "timestamp": "2025-07-29T15:07:19.166Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of r\n\n",
+  "wordCount": 13,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:19.612Z
+{
+  "timestamp": "2025-07-29T15:07:19.604Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rd\n\n",
+  "wordCount": 13,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:20.095Z
+{
+  "timestamp": "2025-07-29T15:07:20.087Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdb\n\n",
+  "wordCount": 13,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:20.638Z
+{
+  "timestamp": "2025-07-29T15:07:20.632Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbm\n\n",
+  "wordCount": 13,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:21.013Z
+{
+  "timestamp": "2025-07-29T15:07:21.000Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n\n",
+  "wordCount": 13,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:24.655Z
+{
+  "timestamp": "2025-07-29T15:07:24.648Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n\n\n",
+  "wordCount": 13,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:26.034Z
+{
+  "timestamp": "2025-07-29T15:07:26.026Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n-\n\n",
+  "wordCount": 14,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:26.254Z
+{
+  "timestamp": "2025-07-29T15:07:26.244Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--\n\n",
+  "wordCount": 14,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:32.715Z
+{
+  "timestamp": "2025-07-29T15:07:32.694Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--b\n\n",
+  "wordCount": 14,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:33.149Z
+{
+  "timestamp": "2025-07-29T15:07:33.141Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--bi\n\n",
+  "wordCount": 14,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:33.545Z
+{
+  "timestamp": "2025-07-29T15:07:33.542Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big\n\n",
+  "wordCount": 14,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:34.467Z
+{
+  "timestamp": "2025-07-29T15:07:34.461Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big \n\n",
+  "wordCount": 14,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:34.880Z
+{
+  "timestamp": "2025-07-29T15:07:34.877Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big d\n\n",
+  "wordCount": 15,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:35.184Z
+{
+  "timestamp": "2025-07-29T15:07:35.175Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big da\n\n",
+  "wordCount": 15,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:35.680Z
+{
+  "timestamp": "2025-07-29T15:07:35.673Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big dat\n\n",
+  "wordCount": 15,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:36.017Z
+{
+  "timestamp": "2025-07-29T15:07:36.014Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data\n\n",
+  "wordCount": 15,
+  "erasedWords": 1,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:36.419Z
+{
+  "timestamp": "2025-07-29T15:07:36.408Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data \n\n",
+  "wordCount": 15,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:36.862Z
+{
+  "timestamp": "2025-07-29T15:07:36.859Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data t\n\n",
+  "wordCount": 16,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:37.544Z
+{
+  "timestamp": "2025-07-29T15:07:37.534Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data \n\n",
+  "wordCount": 15,
+  "erasedWords": 1,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:38.067Z
+{
+  "timestamp": "2025-07-29T15:07:38.057Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data i\n\n",
+  "wordCount": 16,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:38.353Z
+{
+  "timestamp": "2025-07-29T15:07:38.346Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data in\n\n",
+  "wordCount": 16,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:38.673Z
+{
+  "timestamp": "2025-07-29T15:07:38.671Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data int\n\n",
+  "wordCount": 16,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:38.892Z
+{
+  "timestamp": "2025-07-29T15:07:38.884Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data intr\n\n",
+  "wordCount": 16,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:39.392Z
+{
+  "timestamp": "2025-07-29T15:07:39.385Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data intro\n\n",
+  "wordCount": 16,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:39.864Z
+{
+  "timestamp": "2025-07-29T15:07:39.857Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introd\n\n",
+  "wordCount": 16,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:40.313Z
+{
+  "timestamp": "2025-07-29T15:07:40.309Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introdu\n\n",
+  "wordCount": 16,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:40.683Z
+{
+  "timestamp": "2025-07-29T15:07:40.680Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduc\n\n",
+  "wordCount": 16,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:41.533Z
+{
+  "timestamp": "2025-07-29T15:07:41.520Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduct\n\n",
+  "wordCount": 16,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:41.948Z
+{
+  "timestamp": "2025-07-29T15:07:41.939Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introducti\n\n",
+  "wordCount": 16,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:42.189Z
+{
+  "timestamp": "2025-07-29T15:07:42.185Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introductio\n\n",
+  "wordCount": 16,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:42.480Z
+{
+  "timestamp": "2025-07-29T15:07:42.476Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n\n",
+  "wordCount": 16,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:42.991Z
+{
+  "timestamp": "2025-07-29T15:07:42.987Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n\n\n",
+  "wordCount": 16,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:43.498Z
+{
+  "timestamp": "2025-07-29T15:07:43.492Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n-\n\n",
+  "wordCount": 17,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:43.810Z
+{
+  "timestamp": "2025-07-29T15:07:43.808Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--\n\n",
+  "wordCount": 17,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:44.787Z
+{
+  "timestamp": "2025-07-29T15:07:44.781Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--h\n\n",
+  "wordCount": 17,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:45.185Z
+{
+  "timestamp": "2025-07-29T15:07:45.180Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--ha\n\n",
+  "wordCount": 17,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:46.370Z
+{
+  "timestamp": "2025-07-29T15:07:46.365Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--had\n\n",
+  "wordCount": 17,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:46.902Z
+{
+  "timestamp": "2025-07-29T15:07:46.898Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--hado\n\n",
+  "wordCount": 17,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:47.102Z
+{
+  "timestamp": "2025-07-29T15:07:47.097Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--hadoo\n\n",
+  "wordCount": 17,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:47.367Z
+{
+  "timestamp": "2025-07-29T15:07:47.364Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--hadoop\n\n",
+  "wordCount": 17,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:47.878Z
+{
+  "timestamp": "2025-07-29T15:07:47.871Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--hadoop \n\n",
+  "wordCount": 17,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:48.398Z
+{
+  "timestamp": "2025-07-29T15:07:48.394Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--hadoop e\n\n",
+  "wordCount": 18,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:48.699Z
+{
+  "timestamp": "2025-07-29T15:07:48.686Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--hadoop ec\n\n",
+  "wordCount": 18,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:49.177Z
+{
+  "timestamp": "2025-07-29T15:07:49.171Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--hadoop eco\n\n",
+  "wordCount": 18,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:49.637Z
+{
+  "timestamp": "2025-07-29T15:07:49.627Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--hadoop ecos\n\n",
+  "wordCount": 18,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:50.026Z
+{
+  "timestamp": "2025-07-29T15:07:50.016Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--hadoop ecosy\n\n",
+  "wordCount": 18,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:50.393Z
+{
+  "timestamp": "2025-07-29T15:07:50.386Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--hadoop ecosys\n\n",
+  "wordCount": 18,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:50.717Z
+{
+  "timestamp": "2025-07-29T15:07:50.708Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--hadoop ecosyst\n\n",
+  "wordCount": 18,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:50.995Z
+{
+  "timestamp": "2025-07-29T15:07:50.991Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--hadoop ecosyste\n\n",
+  "wordCount": 18,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:51.468Z
+{
+  "timestamp": "2025-07-29T15:07:51.465Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--hadoop ecosystem\n\n",
+  "wordCount": 18,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:52.051Z
+{
+  "timestamp": "2025-07-29T15:07:52.049Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--hadoop ecosystem\n\n\n",
+  "wordCount": 18,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:53.821Z
+{
+  "timestamp": "2025-07-29T15:07:53.803Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--hadoop ecosystem\n-\n\n",
+  "wordCount": 19,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:54.034Z
+{
+  "timestamp": "2025-07-29T15:07:54.021Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 19,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:56.014Z
+{
+  "timestamp": "2025-07-29T15:07:56.011Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--hadoop ecosystem\n--d\n\n",
+  "wordCount": 19,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:56.769Z
+{
+  "timestamp": "2025-07-29T15:07:56.758Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--hadoop ecosystem\n--di\n\n",
+  "wordCount": 19,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:58.112Z
+{
+  "timestamp": "2025-07-29T15:07:58.101Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--hadoop ecosystem\n--d\n\n",
+  "wordCount": 19,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:58.340Z
+{
+  "timestamp": "2025-07-29T15:07:58.330Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 19,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:58.596Z
+{
+  "timestamp": "2025-07-29T15:07:58.589Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--hadoop ecosystem\n-\n\n",
+  "wordCount": 19,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:07:59.873Z
+{
+  "timestamp": "2025-07-29T15:07:59.845Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 19,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:02.630Z
+{
+  "timestamp": "2025-07-29T15:08:02.627Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 19,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:03.636Z
+{
+  "timestamp": "2025-07-29T15:08:03.624Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n-\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 20,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:03.834Z
+{
+  "timestamp": "2025-07-29T15:08:03.830Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 20,
+  "erasedWords": 1,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:07.430Z
+{
+  "timestamp": "2025-07-29T15:08:07.406Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--d\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 20,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:08.071Z
+{
+  "timestamp": "2025-07-29T15:08:08.068Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--di\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 20,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:08.529Z
+{
+  "timestamp": "2025-07-29T15:08:08.526Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--dis\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 20,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:08.975Z
+{
+  "timestamp": "2025-07-29T15:08:08.969Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--dist\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 20,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:09.373Z
+{
+  "timestamp": "2025-07-29T15:08:09.371Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distr\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 20,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:09.933Z
+{
+  "timestamp": "2025-07-29T15:08:09.919Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distri\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 20,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:10.251Z
+{
+  "timestamp": "2025-07-29T15:08:10.248Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distrib\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 20,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:10.624Z
+{
+  "timestamp": "2025-07-29T15:08:10.617Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distribu\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 20,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:10.954Z
+{
+  "timestamp": "2025-07-29T15:08:10.948Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distribut\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 20,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:11.286Z
+{
+  "timestamp": "2025-07-29T15:08:11.284Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributi\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 20,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:11.616Z
+{
+  "timestamp": "2025-07-29T15:08:11.615Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributiv\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 20,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:12.083Z
+{
+  "timestamp": "2025-07-29T15:08:12.080Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 20,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:12.536Z
+{
+  "timestamp": "2025-07-29T15:08:12.522Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive \n--hadoop ecosystem\n--\n\n",
+  "wordCount": 20,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:12.929Z
+{
+  "timestamp": "2025-07-29T15:08:12.926Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive a\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 21,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:13.378Z
+{
+  "timestamp": "2025-07-29T15:08:13.371Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive ar\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 21,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:13.949Z
+{
+  "timestamp": "2025-07-29T15:08:13.948Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive arc\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 21,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:14.315Z
+{
+  "timestamp": "2025-07-29T15:08:14.314Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive arch\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 21,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:14.770Z
+{
+  "timestamp": "2025-07-29T15:08:14.767Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive archi\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 21,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:15.121Z
+{
+  "timestamp": "2025-07-29T15:08:15.119Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive archit\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 21,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:15.412Z
+{
+  "timestamp": "2025-07-29T15:08:15.411Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive archite\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 21,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:15.739Z
+{
+  "timestamp": "2025-07-29T15:08:15.738Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architec\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 21,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:16.036Z
+{
+  "timestamp": "2025-07-29T15:08:16.034Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architect\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 21,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:16.342Z
+{
+  "timestamp": "2025-07-29T15:08:16.341Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architectu\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 21,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:16.721Z
+{
+  "timestamp": "2025-07-29T15:08:16.714Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architectur\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 21,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:16.959Z
+{
+  "timestamp": "2025-07-29T15:08:16.956Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 21,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:21.069Z
+{
+  "timestamp": "2025-07-29T15:08:21.049Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n-- \n\n",
+  "wordCount": 21,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:22.196Z
+{
+  "timestamp": "2025-07-29T15:08:22.189Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--\n\n",
+  "wordCount": 21,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:25.622Z
+{
+  "timestamp": "2025-07-29T15:08:25.615Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--m\n\n",
+  "wordCount": 21,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:26.524Z
+{
+  "timestamp": "2025-07-29T15:08:26.507Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--mo\n\n",
+  "wordCount": 21,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:26.925Z
+{
+  "timestamp": "2025-07-29T15:08:26.922Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--mov\n\n",
+  "wordCount": 21,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:27.336Z
+{
+  "timestamp": "2025-07-29T15:08:27.319Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--movi\n\n",
+  "wordCount": 21,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:27.654Z
+{
+  "timestamp": "2025-07-29T15:08:27.637Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--movin\n\n",
+  "wordCount": 21,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:27.903Z
+{
+  "timestamp": "2025-07-29T15:08:27.901Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving\n\n",
+  "wordCount": 21,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:28.184Z
+{
+  "timestamp": "2025-07-29T15:08:28.182Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving \n\n",
+  "wordCount": 21,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:28.496Z
+{
+  "timestamp": "2025-07-29T15:08:28.494Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving t\n\n",
+  "wordCount": 22,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:28.924Z
+{
+  "timestamp": "2025-07-29T15:08:28.922Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to\n\n",
+  "wordCount": 22,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:29.217Z
+{
+  "timestamp": "2025-07-29T15:08:29.211Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to \n\n",
+  "wordCount": 22,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:29.547Z
+{
+  "timestamp": "2025-07-29T15:08:29.545Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to c\n\n",
+  "wordCount": 23,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:30.000Z
+{
+  "timestamp": "2025-07-29T15:08:29.997Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cl\n\n",
+  "wordCount": 23,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:30.254Z
+{
+  "timestamp": "2025-07-29T15:08:30.251Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to clo\n\n",
+  "wordCount": 23,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:30.588Z
+{
+  "timestamp": "2025-07-29T15:08:30.571Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to clou\n\n",
+  "wordCount": 23,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:30.966Z
+{
+  "timestamp": "2025-07-29T15:08:30.963Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n\n",
+  "wordCount": 23,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:31.951Z
+{
+  "timestamp": "2025-07-29T15:08:31.946Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n\n\n",
+  "wordCount": 23,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:34.251Z
+{
+  "timestamp": "2025-07-29T15:08:34.243Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n-\n\n",
+  "wordCount": 24,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:34.635Z
+{
+  "timestamp": "2025-07-29T15:08:34.629Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--\n\n",
+  "wordCount": 24,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:36.476Z
+{
+  "timestamp": "2025-07-29T15:08:36.466Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--a\n\n",
+  "wordCount": 24,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:36.712Z
+{
+  "timestamp": "2025-07-29T15:08:36.710Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--az\n\n",
+  "wordCount": 24,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:37.358Z
+{
+  "timestamp": "2025-07-29T15:08:37.348Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azu\n\n",
+  "wordCount": 24,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:37.745Z
+{
+  "timestamp": "2025-07-29T15:08:37.742Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azur\n\n",
+  "wordCount": 24,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:37.976Z
+{
+  "timestamp": "2025-07-29T15:08:37.974Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure\n\n",
+  "wordCount": 24,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:38.394Z
+{
+  "timestamp": "2025-07-29T15:08:38.391Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure \n\n",
+  "wordCount": 24,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:38.771Z
+{
+  "timestamp": "2025-07-29T15:08:38.769Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure s\n\n",
+  "wordCount": 25,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:39.024Z
+{
+  "timestamp": "2025-07-29T15:08:39.022Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure se\n\n",
+  "wordCount": 25,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:39.289Z
+{
+  "timestamp": "2025-07-29T15:08:39.287Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure ser\n\n",
+  "wordCount": 25,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:39.584Z
+{
+  "timestamp": "2025-07-29T15:08:39.580Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure serv\n\n",
+  "wordCount": 25,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:40.038Z
+{
+  "timestamp": "2025-07-29T15:08:40.036Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure servi\n\n",
+  "wordCount": 25,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:40.472Z
+{
+  "timestamp": "2025-07-29T15:08:40.470Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure servic\n\n",
+  "wordCount": 25,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:40.783Z
+{
+  "timestamp": "2025-07-29T15:08:40.776Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure service\n\n",
+  "wordCount": 25,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:41.033Z
+{
+  "timestamp": "2025-07-29T15:08:41.030Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n\n",
+  "wordCount": 25,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:42.084Z
+{
+  "timestamp": "2025-07-29T15:08:42.080Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n\n\n",
+  "wordCount": 25,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:43.576Z
+{
+  "timestamp": "2025-07-29T15:08:43.555Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n-\n\n",
+  "wordCount": 26,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:43.820Z
+{
+  "timestamp": "2025-07-29T15:08:43.808Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--\n\n",
+  "wordCount": 26,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:45.859Z
+{
+  "timestamp": "2025-07-29T15:08:45.850Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--a\n\n",
+  "wordCount": 26,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:46.188Z
+{
+  "timestamp": "2025-07-29T15:08:46.174Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--az\n\n",
+  "wordCount": 26,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:46.698Z
+{
+  "timestamp": "2025-07-29T15:08:46.696Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azu\n\n",
+  "wordCount": 26,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:47.077Z
+{
+  "timestamp": "2025-07-29T15:08:47.070Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azur\n\n",
+  "wordCount": 26,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:47.313Z
+{
+  "timestamp": "2025-07-29T15:08:47.311Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure\n\n",
+  "wordCount": 26,
+  "erasedWords": 1,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:47.680Z
+{
+  "timestamp": "2025-07-29T15:08:47.679Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure \n\n",
+  "wordCount": 26,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:48.086Z
+{
+  "timestamp": "2025-07-29T15:08:48.084Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure d\n\n",
+  "wordCount": 27,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:48.377Z
+{
+  "timestamp": "2025-07-29T15:08:48.374Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure da\n\n",
+  "wordCount": 27,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:48.780Z
+{
+  "timestamp": "2025-07-29T15:08:48.774Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure dat\n\n",
+  "wordCount": 27,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:49.132Z
+{
+  "timestamp": "2025-07-29T15:08:49.129Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data\n\n",
+  "wordCount": 27,
+  "erasedWords": 1,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:49.795Z
+{
+  "timestamp": "2025-07-29T15:08:49.792Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data \n\n",
+  "wordCount": 27,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:50.581Z
+{
+  "timestamp": "2025-07-29T15:08:50.572Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data e\n\n",
+  "wordCount": 28,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:51.028Z
+{
+  "timestamp": "2025-07-29T15:08:51.015Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data en\n\n",
+  "wordCount": 28,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:51.311Z
+{
+  "timestamp": "2025-07-29T15:08:51.309Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data eng\n\n",
+  "wordCount": 28,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:51.705Z
+{
+  "timestamp": "2025-07-29T15:08:51.702Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engi\n\n",
+  "wordCount": 28,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:52.061Z
+{
+  "timestamp": "2025-07-29T15:08:52.058Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engin\n\n",
+  "wordCount": 28,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:52.442Z
+{
+  "timestamp": "2025-07-29T15:08:52.435Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engine\n\n",
+  "wordCount": 28,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:52.591Z
+{
+  "timestamp": "2025-07-29T15:08:52.588Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data enginee\n\n",
+  "wordCount": 28,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:52.863Z
+{
+  "timestamp": "2025-07-29T15:08:52.856Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineer\n\n",
+  "wordCount": 28,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:53.506Z
+{
+  "timestamp": "2025-07-29T15:08:53.502Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineeri\n\n",
+  "wordCount": 28,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:53.894Z
+{
+  "timestamp": "2025-07-29T15:08:53.868Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineerin\n\n",
+  "wordCount": 28,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:54.163Z
+{
+  "timestamp": "2025-07-29T15:08:54.161Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering\n\n",
+  "wordCount": 28,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:54.445Z
+{
+  "timestamp": "2025-07-29T15:08:54.443Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering \n\n",
+  "wordCount": 28,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:54.827Z
+{
+  "timestamp": "2025-07-29T15:08:54.825Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering a\n\n",
+  "wordCount": 29,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:55.224Z
+{
+  "timestamp": "2025-07-29T15:08:55.221Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering ar\n\n",
+  "wordCount": 29,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:55.974Z
+{
+  "timestamp": "2025-07-29T15:08:55.969Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering arc\n\n",
+  "wordCount": 29,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:56.363Z
+{
+  "timestamp": "2025-07-29T15:08:56.361Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering arch\n\n",
+  "wordCount": 29,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:56.675Z
+{
+  "timestamp": "2025-07-29T15:08:56.672Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering archi\n\n",
+  "wordCount": 29,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:57.005Z
+{
+  "timestamp": "2025-07-29T15:08:57.003Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering archit\n\n",
+  "wordCount": 29,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:57.290Z
+{
+  "timestamp": "2025-07-29T15:08:57.288Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering archite\n\n",
+  "wordCount": 29,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:57.601Z
+{
+  "timestamp": "2025-07-29T15:08:57.598Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architec\n\n",
+  "wordCount": 29,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:57.961Z
+{
+  "timestamp": "2025-07-29T15:08:57.960Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architect\n\n",
+  "wordCount": 29,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:58.310Z
+{
+  "timestamp": "2025-07-29T15:08:58.307Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architectu\n\n",
+  "wordCount": 29,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:58.655Z
+{
+  "timestamp": "2025-07-29T15:08:58.652Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architectur\n\n",
+  "wordCount": 29,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:58.898Z
+{
+  "timestamp": "2025-07-29T15:08:58.893Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n\n",
+  "wordCount": 29,
+  "erasedWords": 1,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:08:59.924Z
+{
+  "timestamp": "2025-07-29T15:08:59.922Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n\n\n",
+  "wordCount": 29,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:01.280Z
+{
+  "timestamp": "2025-07-29T15:09:01.275Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n-\n\n",
+  "wordCount": 30,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:01.468Z
+{
+  "timestamp": "2025-07-29T15:09:01.462Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--\n\n",
+  "wordCount": 30,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:02.153Z
+{
+  "timestamp": "2025-07-29T15:09:02.151Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--s\n\n",
+  "wordCount": 30,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:02.993Z
+{
+  "timestamp": "2025-07-29T15:09:02.990Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--sk\n\n",
+  "wordCount": 30,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:03.270Z
+{
+  "timestamp": "2025-07-29T15:09:03.263Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--ski\n\n",
+  "wordCount": 30,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:03.557Z
+{
+  "timestamp": "2025-07-29T15:09:03.556Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skil\n\n",
+  "wordCount": 30,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:03.713Z
+{
+  "timestamp": "2025-07-29T15:09:03.712Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skill\n\n",
+  "wordCount": 30,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:04.147Z
+{
+  "timestamp": "2025-07-29T15:09:04.141Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skills\n\n",
+  "wordCount": 30,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:04.370Z
+{
+  "timestamp": "2025-07-29T15:09:04.368Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillse\n\n",
+  "wordCount": 30,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:04.697Z
+{
+  "timestamp": "2025-07-29T15:09:04.688Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n\n",
+  "wordCount": 30,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:05.301Z
+{
+  "timestamp": "2025-07-29T15:09:05.299Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n\n\n",
+  "wordCount": 30,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:05.793Z
+{
+  "timestamp": "2025-07-29T15:09:05.791Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n-\n\n",
+  "wordCount": 31,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:05.986Z
+{
+  "timestamp": "2025-07-29T15:09:05.984Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--\n\n",
+  "wordCount": 31,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:08.448Z
+{
+  "timestamp": "2025-07-29T15:09:08.438Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--r\n\n",
+  "wordCount": 31,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:08.987Z
+{
+  "timestamp": "2025-07-29T15:09:08.985Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--ro\n\n",
+  "wordCount": 31,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:09.238Z
+{
+  "timestamp": "2025-07-29T15:09:09.230Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--rol\n\n",
+  "wordCount": 31,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:09.640Z
+{
+  "timestamp": "2025-07-29T15:09:09.638Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--role\n\n",
+  "wordCount": 31,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:09.929Z
+{
+  "timestamp": "2025-07-29T15:09:09.927Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles\n\n",
+  "wordCount": 31,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:12.543Z
+{
+  "timestamp": "2025-07-29T15:09:12.534Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n\n",
+  "wordCount": 31,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:13.578Z
+{
+  "timestamp": "2025-07-29T15:09:13.576Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n\n\n",
+  "wordCount": 31,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:14.579Z
+{
+  "timestamp": "2025-07-29T15:09:14.559Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n-\n\n",
+  "wordCount": 32,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:14.770Z
+{
+  "timestamp": "2025-07-29T15:09:14.766Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--\n\n",
+  "wordCount": 32,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:20.612Z
+{
+  "timestamp": "2025-07-29T15:09:20.593Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--m\n\n",
+  "wordCount": 32,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:21.930Z
+{
+  "timestamp": "2025-07-29T15:09:21.920Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--ma\n\n",
+  "wordCount": 32,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:22.350Z
+{
+  "timestamp": "2025-07-29T15:09:22.347Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--mar\n\n",
+  "wordCount": 32,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:22.791Z
+{
+  "timestamp": "2025-07-29T15:09:22.788Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--mark\n\n",
+  "wordCount": 32,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:23.230Z
+{
+  "timestamp": "2025-07-29T15:09:23.223Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--marke\n\n",
+  "wordCount": 32,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:09:23.568Z
+{
+  "timestamp": "2025-07-29T15:09:23.564Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 32,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:19:32.093Z
+{
+  "timestamp": "2025-07-29T15:19:32.077Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 32,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:23:54.138Z
+{
+  "timestamp": "2025-07-29T15:23:54.125Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\n\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 32,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:23:57.709Z
+{
+  "timestamp": "2025-07-29T15:23:57.706Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nh\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 33,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:23:58.129Z
+{
+  "timestamp": "2025-07-29T15:23:58.124Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhd\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 33,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:23:58.351Z
+{
+  "timestamp": "2025-07-29T15:23:58.349Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdf\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 33,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:23:58.606Z
+{
+  "timestamp": "2025-07-29T15:23:58.602Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 33,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:23:59.588Z
+{
+  "timestamp": "2025-07-29T15:23:59.577Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs\n\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 33,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:24:01.239Z
+{
+  "timestamp": "2025-07-29T15:24:01.234Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs\nm\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 34,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:24:01.581Z
+{
+  "timestamp": "2025-07-29T15:24:01.579Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs\nma\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 34,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:24:01.904Z
+{
+  "timestamp": "2025-07-29T15:24:01.897Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs\nmap\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 34,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:24:02.563Z
+{
+  "timestamp": "2025-07-29T15:24:02.557Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs\nmapr\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 34,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:24:02.788Z
+{
+  "timestamp": "2025-07-29T15:24:02.786Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs\nmapre\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 34,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:24:02.989Z
+{
+  "timestamp": "2025-07-29T15:24:02.988Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs\nmapred\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 34,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:24:03.476Z
+{
+  "timestamp": "2025-07-29T15:24:03.474Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs\nmapredu\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 34,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:24:03.792Z
+{
+  "timestamp": "2025-07-29T15:24:03.789Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs\nmapreduc\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 34,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:24:04.082Z
+{
+  "timestamp": "2025-07-29T15:24:04.079Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs\nmapreduce\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 34,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:24:04.483Z
+{
+  "timestamp": "2025-07-29T15:24:04.481Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs\nmapreduce\n\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 34,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:24:05.112Z
+{
+  "timestamp": "2025-07-29T15:24:05.107Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs\nmapreduce\ny\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 35,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:24:05.340Z
+{
+  "timestamp": "2025-07-29T15:24:05.328Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs\nmapreduce\nya\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 35,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:24:05.536Z
+{
+  "timestamp": "2025-07-29T15:24:05.533Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs\nmapreduce\nyar\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 35,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:24:06.322Z
+{
+  "timestamp": "2025-07-29T15:24:06.317Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs\nmapreduce\nyarn\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 35,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:24:12.428Z
+{
+  "timestamp": "2025-07-29T15:24:12.351Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs \nmapreduce\nyarn\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 35,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:24:56.956Z
+{
+  "timestamp": "2025-07-29T15:24:56.944Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs \nmapreduce\nyarn\n\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 35,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:24:58.307Z
+{
+  "timestamp": "2025-07-29T15:24:58.299Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs \nmapreduce\nyarn\nh\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 36,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T15:24:58.608Z
+{
+  "timestamp": "2025-07-29T15:24:58.598Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs \nmapreduce\nyarn\nhi\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 36,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T15:24:58.903Z
+{
+  "timestamp": "2025-07-29T15:24:58.899Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs \nmapreduce\nyarn\nhiv\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 36,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 2
+}
+
+Log at 2025-07-29T15:24:59.234Z
+{
+  "timestamp": "2025-07-29T15:24:59.228Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs \nmapreduce\nyarn\nhive\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 36,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 3
+}
+
+Log at 2025-07-29T15:24:59.760Z
+{
+  "timestamp": "2025-07-29T15:24:59.751Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs \nmapreduce\nyarn\nhiver\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 36,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 4
+}
+
+Log at 2025-07-29T15:25:01.565Z
+{
+  "timestamp": "2025-07-29T15:25:01.556Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs \nmapreduce\nyarn\nhive\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 36,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 5
+}
+
+Log at 2025-07-29T15:25:02.456Z
+{
+  "timestamp": "2025-07-29T15:25:02.441Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs \nmapreduce\nyarn\nhive\n\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 36,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 6
+}
+
+Log at 2025-07-29T15:25:05.700Z
+{
+  "timestamp": "2025-07-29T15:25:05.685Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs \nmapreduce\nyarn\nhive\ns\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 37,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 7
+}
+
+Log at 2025-07-29T15:25:05.944Z
+{
+  "timestamp": "2025-07-29T15:25:05.940Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs \nmapreduce\nyarn\nhive\nsp\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 37,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 8
+}
+
+Log at 2025-07-29T15:25:06.151Z
+{
+  "timestamp": "2025-07-29T15:25:06.149Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs \nmapreduce\nyarn\nhive\nspa\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 37,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 9
+}
+
+Log at 2025-07-29T15:25:06.411Z
+{
+  "timestamp": "2025-07-29T15:25:06.403Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs \nmapreduce\nyarn\nhive\nspar\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 37,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 10
+}
+
+Log at 2025-07-29T15:25:10.218Z
+{
+  "timestamp": "2025-07-29T15:25:10.207Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs \nmapreduce\nyarn\nhive\nspark\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 37,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 12
+}
+
+Log at 2025-07-29T15:25:10.238Z
+{
+  "timestamp": "2025-07-29T15:25:10.212Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs \nmapreduce\nyarn\nhive\nspark \n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 37,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 12
+}
+
+Log at 2025-07-29T15:26:18.642Z
+{
+  "timestamp": "2025-07-29T15:26:18.619Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs \nmapreduce\nyarn\nhive\nspark \n\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 37,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 16
+}
+
+Log at 2025-07-29T15:26:21.599Z
+{
+  "timestamp": "2025-07-29T15:26:21.593Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs \nmapreduce\nyarn\nhive\nspark \no\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 38,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 18
+}
+
+Log at 2025-07-29T15:26:21.780Z
+{
+  "timestamp": "2025-07-29T15:26:21.752Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs \nmapreduce\nyarn\nhive\nspark \noo\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 38,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 20
+}
+
+Log at 2025-07-29T15:26:22.992Z
+{
+  "timestamp": "2025-07-29T15:26:22.987Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs \nmapreduce\nyarn\nhive\nspark \nooz\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 38,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 22
+}
+
+Log at 2025-07-29T15:26:23.232Z
+{
+  "timestamp": "2025-07-29T15:26:23.214Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs \nmapreduce\nyarn\nhive\nspark \noozi\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 38,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 24
+}
+
+Log at 2025-07-29T15:26:23.618Z
+{
+  "timestamp": "2025-07-29T15:26:23.610Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs \nmapreduce\nyarn\nhive\nspark \noozie\n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 38,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 26
+}
+
+Log at 2025-07-29T15:26:24.018Z
+{
+  "timestamp": "2025-07-29T15:26:24.014Z",
+  "text": "--introuction\n--data?\n--why do we need data? \n--storing data evolution\n\n--limitations of rdbms\n--big data introduction\n--distributive architecture\n--hadoop ecosystem\nhdfs \nmapreduce\nyarn\nhive\nspark \noozie \n--moving to cloud\n--azure services\n--azure data engineering architecture\n--skillset\n--roles \n--market\n\n",
+  "wordCount": 38,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 28
+}
+
