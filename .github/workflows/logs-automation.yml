@@ -2,8 +2,8 @@ name: Auto Commit Logs
 
 on:
   schedule:
-    - cron: '0 * * * *' # every hour
-  workflow_dispatch: # allows manual triggering
+    - cron: '0 * * * *' # Every hour
+  workflow_dispatch: # Manual trigger
 
 jobs:
   commit-logs:
@@ -17,8 +17,12 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-      - name: Commit and Push Logs
+      - name: Check for Changes
         run: |
           git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
           git commit -m "🔄 Hourly log update"
           git push
