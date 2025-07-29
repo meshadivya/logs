@@ -1,0 +1,9 @@
+POST http://localhost:5000/log
+Content-Type: application/json
+
+{
+  "wordCount": 100,
+  "erasedWords": 20,
+  "rewrittenWords": 10,
+  "imageFetchCount": 3
+}
