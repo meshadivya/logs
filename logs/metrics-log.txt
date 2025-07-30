@@ -8784,3 +8784,2093 @@ Log at 2025-07-29T17:29:24.247Z
   "imageFetchCount": 1
 }
 
+Log at 2025-07-29T17:30:13.160Z
+{
+  "timestamp": "2025-07-29T17:30:13.151Z",
+  "text": "r",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:30:13.334Z
+{
+  "timestamp": "2025-07-29T17:30:13.331Z",
+  "text": "re",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:30:13.574Z
+{
+  "timestamp": "2025-07-29T17:30:13.567Z",
+  "text": "rea",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:30:13.826Z
+{
+  "timestamp": "2025-07-29T17:30:13.822Z",
+  "text": "read",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:30:14.170Z
+{
+  "timestamp": "2025-07-29T17:30:14.164Z",
+  "text": "readi",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:30:14.429Z
+{
+  "timestamp": "2025-07-29T17:30:14.426Z",
+  "text": "readin",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:30:14.708Z
+{
+  "timestamp": "2025-07-29T17:30:14.700Z",
+  "text": "reading",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:30:15.001Z
+{
+  "timestamp": "2025-07-29T17:30:14.996Z",
+  "text": "readings",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:30:57.533Z
+{
+  "timestamp": "2025-07-29T17:30:57.512Z",
+  "text": "reading",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:30:58.030Z
+{
+  "timestamp": "2025-07-29T17:30:58.021Z",
+  "text": "readin",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:30:58.053Z
+{
+  "timestamp": "2025-07-29T17:30:58.051Z",
+  "text": "readi",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:30:58.085Z
+{
+  "timestamp": "2025-07-29T17:30:58.083Z",
+  "text": "read",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:30:58.119Z
+{
+  "timestamp": "2025-07-29T17:30:58.116Z",
+  "text": "rea",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:30:58.153Z
+{
+  "timestamp": "2025-07-29T17:30:58.150Z",
+  "text": "re",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:30:58.188Z
+{
+  "timestamp": "2025-07-29T17:30:58.184Z",
+  "text": "r",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:30:58.218Z
+{
+  "timestamp": "2025-07-29T17:30:58.215Z",
+  "text": "",
+  "wordCount": 0,
+  "erasedWords": 1,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:30:58.785Z
+{
+  "timestamp": "2025-07-29T17:30:58.781Z",
+  "text": "i",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:30:59.059Z
+{
+  "timestamp": "2025-07-29T17:30:59.053Z",
+  "text": "in",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:30:59.406Z
+{
+  "timestamp": "2025-07-29T17:30:59.398Z",
+  "text": "ins",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:30:59.644Z
+{
+  "timestamp": "2025-07-29T17:30:59.639Z",
+  "text": "inst",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:30:59.911Z
+{
+  "timestamp": "2025-07-29T17:30:59.906Z",
+  "text": "insta",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:31:20.844Z
+{
+  "timestamp": "2025-07-29T17:31:20.836Z",
+  "text": "inst",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:31:21.359Z
+{
+  "timestamp": "2025-07-29T17:31:21.350Z",
+  "text": "ins",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:31:21.383Z
+{
+  "timestamp": "2025-07-29T17:31:21.381Z",
+  "text": "in",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:31:21.415Z
+{
+  "timestamp": "2025-07-29T17:31:21.413Z",
+  "text": "i",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:31:21.449Z
+{
+  "timestamp": "2025-07-29T17:31:21.448Z",
+  "text": "",
+  "wordCount": 0,
+  "erasedWords": 1,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:31:48.073Z
+{
+  "timestamp": "2025-07-29T17:31:48.061Z",
+  "text": "i",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:31:48.309Z
+{
+  "timestamp": "2025-07-29T17:31:48.305Z",
+  "text": "in",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:31:48.627Z
+{
+  "timestamp": "2025-07-29T17:31:48.625Z",
+  "text": "ins",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:31:48.873Z
+{
+  "timestamp": "2025-07-29T17:31:48.870Z",
+  "text": "inst",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:31:49.158Z
+{
+  "timestamp": "2025-07-29T17:31:49.156Z",
+  "text": "insta",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:31:54.750Z
+{
+  "timestamp": "2025-07-29T17:31:54.735Z",
+  "text": "inst",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:31:54.937Z
+{
+  "timestamp": "2025-07-29T17:31:54.934Z",
+  "text": "ins",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:31:55.122Z
+{
+  "timestamp": "2025-07-29T17:31:55.118Z",
+  "text": "in",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:31:55.294Z
+{
+  "timestamp": "2025-07-29T17:31:55.293Z",
+  "text": "i",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:31:55.792Z
+{
+  "timestamp": "2025-07-29T17:31:55.784Z",
+  "text": "",
+  "wordCount": 0,
+  "erasedWords": 1,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:31:56.320Z
+{
+  "timestamp": "2025-07-29T17:31:56.312Z",
+  "text": "i",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:31:56.554Z
+{
+  "timestamp": "2025-07-29T17:31:56.550Z",
+  "text": "in",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:31:56.907Z
+{
+  "timestamp": "2025-07-29T17:31:56.902Z",
+  "text": "ins",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:31:57.145Z
+{
+  "timestamp": "2025-07-29T17:31:57.143Z",
+  "text": "inst",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:31:57.447Z
+{
+  "timestamp": "2025-07-29T17:31:57.445Z",
+  "text": "insta",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:32:25.661Z
+{
+  "timestamp": "2025-07-29T17:32:25.652Z",
+  "text": "insta\n",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:38:35.273Z
+{
+  "timestamp": "2025-07-29T17:38:35.262Z",
+  "text": "a",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:35.797Z
+{
+  "timestamp": "2025-07-29T17:38:35.791Z",
+  "text": "ad",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:36.215Z
+{
+  "timestamp": "2025-07-29T17:38:36.207Z",
+  "text": "adf",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:38:36.357Z
+{
+  "timestamp": "2025-07-29T17:38:36.350Z",
+  "text": "adfh",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:38:38.124Z
+{
+  "timestamp": "2025-07-29T17:38:38.114Z",
+  "text": "adf",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:38:38.625Z
+{
+  "timestamp": "2025-07-29T17:38:38.622Z",
+  "text": "ad",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:38.656Z
+{
+  "timestamp": "2025-07-29T17:38:38.654Z",
+  "text": "a",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:38.689Z
+{
+  "timestamp": "2025-07-29T17:38:38.687Z",
+  "text": "",
+  "wordCount": 0,
+  "erasedWords": 1,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:40.231Z
+{
+  "timestamp": "2025-07-29T17:38:40.227Z",
+  "text": "a",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:40.553Z
+{
+  "timestamp": "2025-07-29T17:38:40.544Z",
+  "text": "ae",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:40.998Z
+{
+  "timestamp": "2025-07-29T17:38:40.991Z",
+  "text": "aer",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:41.363Z
+{
+  "timestamp": "2025-07-29T17:38:41.360Z",
+  "text": "aerr",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:41.521Z
+{
+  "timestamp": "2025-07-29T17:38:41.512Z",
+  "text": "aerry",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:48.522Z
+{
+  "timestamp": "2025-07-29T17:38:48.514Z",
+  "text": "aerr",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:49.032Z
+{
+  "timestamp": "2025-07-29T17:38:49.029Z",
+  "text": "aer",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:49.061Z
+{
+  "timestamp": "2025-07-29T17:38:49.059Z",
+  "text": "ae",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:49.104Z
+{
+  "timestamp": "2025-07-29T17:38:49.098Z",
+  "text": "a",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:49.135Z
+{
+  "timestamp": "2025-07-29T17:38:49.130Z",
+  "text": "",
+  "wordCount": 0,
+  "erasedWords": 1,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:49.891Z
+{
+  "timestamp": "2025-07-29T17:38:49.879Z",
+  "text": "a",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:50.119Z
+{
+  "timestamp": "2025-07-29T17:38:50.118Z",
+  "text": "ad",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:50.403Z
+{
+  "timestamp": "2025-07-29T17:38:50.398Z",
+  "text": "adf",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:38:53.848Z
+{
+  "timestamp": "2025-07-29T17:38:53.835Z",
+  "text": "ad",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:54.026Z
+{
+  "timestamp": "2025-07-29T17:38:54.023Z",
+  "text": "a",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:54.209Z
+{
+  "timestamp": "2025-07-29T17:38:54.207Z",
+  "text": "",
+  "wordCount": 0,
+  "erasedWords": 1,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:54.924Z
+{
+  "timestamp": "2025-07-29T17:38:54.914Z",
+  "text": "a",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:55.139Z
+{
+  "timestamp": "2025-07-29T17:38:55.129Z",
+  "text": "ad",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:55.505Z
+{
+  "timestamp": "2025-07-29T17:38:55.499Z",
+  "text": "adl",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:55.738Z
+{
+  "timestamp": "2025-07-29T17:38:55.734Z",
+  "text": "adls",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:38:58.559Z
+{
+  "timestamp": "2025-07-29T17:38:58.557Z",
+  "text": "adl",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:59.079Z
+{
+  "timestamp": "2025-07-29T17:38:59.071Z",
+  "text": "ad",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:59.116Z
+{
+  "timestamp": "2025-07-29T17:38:59.107Z",
+  "text": "a",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:59.136Z
+{
+  "timestamp": "2025-07-29T17:38:59.133Z",
+  "text": "",
+  "wordCount": 0,
+  "erasedWords": 1,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:38:59.885Z
+{
+  "timestamp": "2025-07-29T17:38:59.876Z",
+  "text": "d",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:39:00.082Z
+{
+  "timestamp": "2025-07-29T17:39:00.078Z",
+  "text": "da",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:39:00.202Z
+{
+  "timestamp": "2025-07-29T17:39:00.200Z",
+  "text": "dat",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:39:00.387Z
+{
+  "timestamp": "2025-07-29T17:39:00.384Z",
+  "text": "data",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:00.638Z
+{
+  "timestamp": "2025-07-29T17:39:00.629Z",
+  "text": "data ",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:00.898Z
+{
+  "timestamp": "2025-07-29T17:39:00.892Z",
+  "text": "data e",
+  "wordCount": 2,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:01.117Z
+{
+  "timestamp": "2025-07-29T17:39:01.114Z",
+  "text": "data en",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:01.398Z
+{
+  "timestamp": "2025-07-29T17:39:01.396Z",
+  "text": "data eng",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:01.661Z
+{
+  "timestamp": "2025-07-29T17:39:01.658Z",
+  "text": "data engi",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:01.936Z
+{
+  "timestamp": "2025-07-29T17:39:01.930Z",
+  "text": "data engin",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:02.151Z
+{
+  "timestamp": "2025-07-29T17:39:02.149Z",
+  "text": "data engine",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:02.321Z
+{
+  "timestamp": "2025-07-29T17:39:02.317Z",
+  "text": "data enginee",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:02.659Z
+{
+  "timestamp": "2025-07-29T17:39:02.655Z",
+  "text": "data engineer",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:02.879Z
+{
+  "timestamp": "2025-07-29T17:39:02.878Z",
+  "text": "data engineeri",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:03.133Z
+{
+  "timestamp": "2025-07-29T17:39:03.130Z",
+  "text": "data engineerin",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:03.376Z
+{
+  "timestamp": "2025-07-29T17:39:03.374Z",
+  "text": "data engineering",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 2
+}
+
+Log at 2025-07-29T17:39:09.659Z
+{
+  "timestamp": "2025-07-29T17:39:09.652Z",
+  "text": "data engineerin",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:10.170Z
+{
+  "timestamp": "2025-07-29T17:39:10.165Z",
+  "text": "data engineeri",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:10.204Z
+{
+  "timestamp": "2025-07-29T17:39:10.201Z",
+  "text": "data engineer",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:10.234Z
+{
+  "timestamp": "2025-07-29T17:39:10.229Z",
+  "text": "data enginee",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:10.276Z
+{
+  "timestamp": "2025-07-29T17:39:10.268Z",
+  "text": "data engine",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:10.303Z
+{
+  "timestamp": "2025-07-29T17:39:10.298Z",
+  "text": "data engin",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:10.343Z
+{
+  "timestamp": "2025-07-29T17:39:10.328Z",
+  "text": "data engi",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:10.363Z
+{
+  "timestamp": "2025-07-29T17:39:10.360Z",
+  "text": "data eng",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:10.397Z
+{
+  "timestamp": "2025-07-29T17:39:10.395Z",
+  "text": "data en",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:10.431Z
+{
+  "timestamp": "2025-07-29T17:39:10.428Z",
+  "text": "data e",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:10.464Z
+{
+  "timestamp": "2025-07-29T17:39:10.461Z",
+  "text": "data ",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 0,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:10.497Z
+{
+  "timestamp": "2025-07-29T17:39:10.494Z",
+  "text": "data",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:10.527Z
+{
+  "timestamp": "2025-07-29T17:39:10.526Z",
+  "text": "dat",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:39:10.563Z
+{
+  "timestamp": "2025-07-29T17:39:10.560Z",
+  "text": "da",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:39:10.596Z
+{
+  "timestamp": "2025-07-29T17:39:10.593Z",
+  "text": "d",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:39:10.629Z
+{
+  "timestamp": "2025-07-29T17:39:10.627Z",
+  "text": "",
+  "wordCount": 0,
+  "erasedWords": 1,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:39:12.157Z
+{
+  "timestamp": "2025-07-29T17:39:12.148Z",
+  "text": "e",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:39:12.367Z
+{
+  "timestamp": "2025-07-29T17:39:12.364Z",
+  "text": "et",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:39:12.883Z
+{
+  "timestamp": "2025-07-29T17:39:12.872Z",
+  "text": "etl",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:28.028Z
+{
+  "timestamp": "2025-07-29T17:39:28.022Z",
+  "text": "et",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:39:28.227Z
+{
+  "timestamp": "2025-07-29T17:39:28.220Z",
+  "text": "e",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:39:28.399Z
+{
+  "timestamp": "2025-07-29T17:39:28.397Z",
+  "text": "",
+  "wordCount": 0,
+  "erasedWords": 1,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:39:33.454Z
+{
+  "timestamp": "2025-07-29T17:39:33.444Z",
+  "text": "e",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:39:33.792Z
+{
+  "timestamp": "2025-07-29T17:39:33.790Z",
+  "text": "et",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:39:34.839Z
+{
+  "timestamp": "2025-07-29T17:39:34.836Z",
+  "text": "etl",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:39:53.701Z
+{
+  "timestamp": "2025-07-29T17:39:53.691Z",
+  "text": "et",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:39:54.107Z
+{
+  "timestamp": "2025-07-29T17:39:54.105Z",
+  "text": "e",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:39:54.613Z
+{
+  "timestamp": "2025-07-29T17:39:54.609Z",
+  "text": "",
+  "wordCount": 0,
+  "erasedWords": 1,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:40:12.206Z
+{
+  "timestamp": "2025-07-29T17:40:12.197Z",
+  "text": "a",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:40:12.379Z
+{
+  "timestamp": "2025-07-29T17:40:12.377Z",
+  "text": "ad",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:40:12.581Z
+{
+  "timestamp": "2025-07-29T17:40:12.576Z",
+  "text": "adf",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:41:00.834Z
+{
+  "timestamp": "2025-07-29T17:41:00.817Z",
+  "text": "-adf",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:41:01.023Z
+{
+  "timestamp": "2025-07-29T17:41:01.013Z",
+  "text": "--adf",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-29T17:41:06.270Z
+{
+  "timestamp": "2025-07-29T17:41:06.266Z",
+  "text": "-adf",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:41:06.465Z
+{
+  "timestamp": "2025-07-29T17:41:06.464Z",
+  "text": "adf",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:42.844Z
+{
+  "timestamp": "2025-07-29T17:42:42.817Z",
+  "text": "adfh",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:42.876Z
+{
+  "timestamp": "2025-07-29T17:42:42.830Z",
+  "text": "adfhj",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:42.904Z
+{
+  "timestamp": "2025-07-29T17:42:42.900Z",
+  "text": "adfhjg",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:43.229Z
+{
+  "timestamp": "2025-07-29T17:42:43.226Z",
+  "text": "adfhjgg",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:43.681Z
+{
+  "timestamp": "2025-07-29T17:42:43.679Z",
+  "text": "adfhjggd",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:44.301Z
+{
+  "timestamp": "2025-07-29T17:42:44.299Z",
+  "text": "adfhjgg",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:44.578Z
+{
+  "timestamp": "2025-07-29T17:42:44.572Z",
+  "text": "adfhjg",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:44.746Z
+{
+  "timestamp": "2025-07-29T17:42:44.741Z",
+  "text": "adfhj",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:44.907Z
+{
+  "timestamp": "2025-07-29T17:42:44.904Z",
+  "text": "adfh",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:45.383Z
+{
+  "timestamp": "2025-07-29T17:42:45.381Z",
+  "text": "adf",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:53.155Z
+{
+  "timestamp": "2025-07-29T17:42:53.142Z",
+  "text": "adfh",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:53.180Z
+{
+  "timestamp": "2025-07-29T17:42:53.179Z",
+  "text": "adfhg",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:53.267Z
+{
+  "timestamp": "2025-07-29T17:42:53.252Z",
+  "text": "adfhgd",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:53.393Z
+{
+  "timestamp": "2025-07-29T17:42:53.390Z",
+  "text": "adfhgdj",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:53.477Z
+{
+  "timestamp": "2025-07-29T17:42:53.472Z",
+  "text": "adfhgdjh",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:53.499Z
+{
+  "timestamp": "2025-07-29T17:42:53.497Z",
+  "text": "adfhgdjhc",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:53.729Z
+{
+  "timestamp": "2025-07-29T17:42:53.727Z",
+  "text": "adfhgdjhcj",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:53.866Z
+{
+  "timestamp": "2025-07-29T17:42:53.863Z",
+  "text": "adfhgdjhcjx",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:53.920Z
+{
+  "timestamp": "2025-07-29T17:42:53.918Z",
+  "text": "adfhgdjhcjxn",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:54.209Z
+{
+  "timestamp": "2025-07-29T17:42:54.204Z",
+  "text": "adfhgdjhcjxnv",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:54.220Z
+{
+  "timestamp": "2025-07-29T17:42:54.210Z",
+  "text": "adfhgdjhcjxnvb",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:54.943Z
+{
+  "timestamp": "2025-07-29T17:42:54.941Z",
+  "text": "adfhgdjhcjxnv",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:55.148Z
+{
+  "timestamp": "2025-07-29T17:42:55.146Z",
+  "text": "adfhgdjhcjxn",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:55.515Z
+{
+  "timestamp": "2025-07-29T17:42:55.513Z",
+  "text": "adfhgdjhcjx",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:55.800Z
+{
+  "timestamp": "2025-07-29T17:42:55.798Z",
+  "text": "adfhgdjhcj",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:55.928Z
+{
+  "timestamp": "2025-07-29T17:42:55.926Z",
+  "text": "adfhgdjhc",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:56.071Z
+{
+  "timestamp": "2025-07-29T17:42:56.069Z",
+  "text": "adfhgdjh",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:56.228Z
+{
+  "timestamp": "2025-07-29T17:42:56.226Z",
+  "text": "adfhgdj",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:56.391Z
+{
+  "timestamp": "2025-07-29T17:42:56.387Z",
+  "text": "adfhgd",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:56.527Z
+{
+  "timestamp": "2025-07-29T17:42:56.525Z",
+  "text": "adfhg",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:56.690Z
+{
+  "timestamp": "2025-07-29T17:42:56.689Z",
+  "text": "adfh",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T17:42:56.882Z
+{
+  "timestamp": "2025-07-29T17:42:56.876Z",
+  "text": "adf",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T18:04:27.276Z
+{
+  "timestamp": "2025-07-29T18:04:27.225Z",
+  "text": "adfa",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T18:04:27.386Z
+{
+  "timestamp": "2025-07-29T18:04:27.378Z",
+  "text": "adfad",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T18:04:27.601Z
+{
+  "timestamp": "2025-07-29T18:04:27.595Z",
+  "text": "adfade",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T18:04:28.480Z
+{
+  "timestamp": "2025-07-29T18:04:28.472Z",
+  "text": "adfadet",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T18:04:28.792Z
+{
+  "timestamp": "2025-07-29T18:04:28.785Z",
+  "text": "adfadeto",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T18:04:28.928Z
+{
+  "timestamp": "2025-07-29T18:04:28.924Z",
+  "text": "adfadetoo",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T18:04:29.167Z
+{
+  "timestamp": "2025-07-29T18:04:29.156Z",
+  "text": "adfadetool",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T18:04:29.314Z
+{
+  "timestamp": "2025-07-29T18:04:29.303Z",
+  "text": "adfadetools",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 2
+}
+
+Log at 2025-07-29T18:04:38.965Z
+{
+  "timestamp": "2025-07-29T18:04:38.941Z",
+  "text": "adadetools",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T18:04:39.242Z
+{
+  "timestamp": "2025-07-29T18:04:39.232Z",
+  "text": "aadetools",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T18:04:42.918Z
+{
+  "timestamp": "2025-07-29T18:04:42.905Z",
+  "text": "adetools",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T18:06:46.281Z
+{
+  "timestamp": "2025-07-29T18:06:46.271Z",
+  "text": "dadetools",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T18:06:46.422Z
+{
+  "timestamp": "2025-07-29T18:06:46.417Z",
+  "text": "daadetools",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-29T18:06:46.608Z
+{
+  "timestamp": "2025-07-29T18:06:46.604Z",
+  "text": "datadetools",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 2
+}
+
+Log at 2025-07-29T18:06:46.752Z
+{
+  "timestamp": "2025-07-29T18:06:46.742Z",
+  "text": "dataadetools",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 2
+}
+
+Log at 2025-07-29T18:06:52.195Z
+{
+  "timestamp": "2025-07-29T18:06:52.186Z",
+  "text": "data\nadetools",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 2,
+  "imageFetchCount": 2
+}
+
+Log at 2025-07-30T04:45:48.282Z
+{
+  "timestamp": "2025-07-30T04:45:48.219Z",
+  "text": "d",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-30T04:45:48.641Z
+{
+  "timestamp": "2025-07-30T04:45:48.634Z",
+  "text": "da",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-30T04:45:49.281Z
+{
+  "timestamp": "2025-07-30T04:45:49.276Z",
+  "text": "dat",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-30T04:45:49.781Z
+{
+  "timestamp": "2025-07-30T04:45:49.778Z",
+  "text": "data",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:45:54.350Z
+{
+  "timestamp": "2025-07-30T04:45:54.339Z",
+  "text": "data ",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:45:55.078Z
+{
+  "timestamp": "2025-07-30T04:45:55.075Z",
+  "text": "data e",
+  "wordCount": 2,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:45:55.607Z
+{
+  "timestamp": "2025-07-30T04:45:55.596Z",
+  "text": "data en",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:45:56.064Z
+{
+  "timestamp": "2025-07-30T04:45:56.055Z",
+  "text": "data eng",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:45:56.507Z
+{
+  "timestamp": "2025-07-30T04:45:56.489Z",
+  "text": "data engi",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:45:56.920Z
+{
+  "timestamp": "2025-07-30T04:45:56.912Z",
+  "text": "data engin",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:45:57.524Z
+{
+  "timestamp": "2025-07-30T04:45:57.516Z",
+  "text": "data engine",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:45:57.742Z
+{
+  "timestamp": "2025-07-30T04:45:57.738Z",
+  "text": "data enginee",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:45:58.173Z
+{
+  "timestamp": "2025-07-30T04:45:58.164Z",
+  "text": "data engineer",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:45:58.789Z
+{
+  "timestamp": "2025-07-30T04:45:58.779Z",
+  "text": "data engineeri",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:45:59.307Z
+{
+  "timestamp": "2025-07-30T04:45:59.294Z",
+  "text": "data engineerin",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:45:59.723Z
+{
+  "timestamp": "2025-07-30T04:45:59.678Z",
+  "text": "data engineering",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 2
+}
+
+Log at 2025-07-30T04:46:36.563Z
+{
+  "timestamp": "2025-07-30T04:46:36.529Z",
+  "text": "data engineerin",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:46:37.025Z
+{
+  "timestamp": "2025-07-30T04:46:37.017Z",
+  "text": "data engineeri",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:46:37.062Z
+{
+  "timestamp": "2025-07-30T04:46:37.050Z",
+  "text": "data engineer",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:46:37.084Z
+{
+  "timestamp": "2025-07-30T04:46:37.080Z",
+  "text": "data enginee",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:46:37.116Z
+{
+  "timestamp": "2025-07-30T04:46:37.113Z",
+  "text": "data engine",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:46:37.148Z
+{
+  "timestamp": "2025-07-30T04:46:37.145Z",
+  "text": "data engin",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:46:37.180Z
+{
+  "timestamp": "2025-07-30T04:46:37.177Z",
+  "text": "data engi",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:46:37.214Z
+{
+  "timestamp": "2025-07-30T04:46:37.210Z",
+  "text": "data eng",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:46:37.247Z
+{
+  "timestamp": "2025-07-30T04:46:37.243Z",
+  "text": "data en",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:46:37.287Z
+{
+  "timestamp": "2025-07-30T04:46:37.281Z",
+  "text": "data e",
+  "wordCount": 2,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:46:37.331Z
+{
+  "timestamp": "2025-07-30T04:46:37.314Z",
+  "text": "data ",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 0,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:46:37.344Z
+{
+  "timestamp": "2025-07-30T04:46:37.340Z",
+  "text": "data",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:46:37.379Z
+{
+  "timestamp": "2025-07-30T04:46:37.375Z",
+  "text": "dat",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-30T04:46:37.413Z
+{
+  "timestamp": "2025-07-30T04:46:37.408Z",
+  "text": "da",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-30T04:46:37.444Z
+{
+  "timestamp": "2025-07-30T04:46:37.440Z",
+  "text": "d",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-30T04:46:37.497Z
+{
+  "timestamp": "2025-07-30T04:46:37.491Z",
+  "text": "",
+  "wordCount": 0,
+  "erasedWords": 1,
+  "rewrittenWords": 0,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-30T04:46:39.949Z
+{
+  "timestamp": "2025-07-30T04:46:39.940Z",
+  "text": "H",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 1,
+  "imageFetchCount": 0
+}
+
+Log at 2025-07-30T04:46:41.468Z
+{
+  "timestamp": "2025-07-30T04:46:41.459Z",
+  "text": "Hi",
+  "wordCount": 1,
+  "erasedWords": 1,
+  "rewrittenWords": 1,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:47:38.957Z
+{
+  "timestamp": "2025-07-30T04:47:38.946Z",
+  "text": "Hi\n",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 1
+}
+
+Log at 2025-07-30T04:47:39.644Z
+{
+  "timestamp": "2025-07-30T04:47:39.642Z",
+  "text": "Hi\n\n",
+  "wordCount": 1,
+  "erasedWords": 0,
+  "rewrittenWords": 0,
+  "imageFetchCount": 1
+}
+
